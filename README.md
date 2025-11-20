@@ -4,8 +4,7 @@
 
 Soy una apasionada desarrolladora en mi último año de Licenciatura en Ciencias de la Computación, especializada en crear soluciones tecnológicas innovadoras. Mi enfoque combina el desarrollo full-stack con el análisis de datos para construir aplicaciones robustas y escalables.
 
-## 📚 Actualmente aprendiendo:
-- Arquitecturas Cloud Native  
+## 📚 Actualmente aprendiendo
 - Machine Learning Avanzado  
 
 🎯 **Objetivo profesional**: Contribuir a proyectos innovadores que combinen desarrollo full-stack con inteligencia artificial.
@@ -62,11 +61,8 @@ Soy una apasionada desarrolladora en mi último año de Licenciatura en Ciencias
 ---
 
 ## 📍 Información de contacto  
-- **Email**: [melaniforsythe51@gmail.com](mailto:melaniforsythe51@gmail.com)  
+- **Email**: [forsythemelani51@gmail.com](mailto:forsythemelani51@gmail.com)  
 - **Telegram**: [@melani_forsythe](https://t.me/melani_forsythe)
 
 ---
 
-<div align="center">
-  ![GitHub Visitors](https://komarev.com/ghpvc/?username=melaniforsythe&color=blueviolet&style=flat-square)
-</div>
